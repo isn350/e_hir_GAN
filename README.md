@@ -12,7 +12,7 @@ In the environment install the following pakages:
 3. opencv 
 4. matplotlib 
 
-The input file should be .mat file including all data. This code is designed to read .mat file with a struct name acitivity orginazed as followes: 
+The input file should be .mat. This code is designed to read .mat file with a struct name 'acitivity' orginazed as followes: 
 1. name (data type string) 
 2. human_number (data type double)
 3. data ( matrix 600x140 double) 
