@@ -4,7 +4,7 @@ The Following are software are required to run this code:
 1. NVIDIA CUDA latest version
 2. Anaconda version 4.3
 
-  After installing Anaconda create environment with python version 3.5
+  After installing Anaconda create an environment with python version 3.5
 In the environment install the following pakages:
 
 1. keras-gpu
