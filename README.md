@@ -11,3 +11,5 @@ In the environment install the following pakages:
 2. pillow 
 3. opencv 
 4. matplotlib 
+
+Before running the code check the following script and adjust cordingly:
