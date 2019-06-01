@@ -40,9 +40,9 @@ def images_labels(oct_struct,activityname,dir):
 	return features, labels
 
 def read_data(dir,activityname):
-	data_file = 'C:/Users/STUDENT/Desktop/Ibrahim/GAN_tot'
+	data_file = 'C:/Users/STUDENT/Desktop/Ibrahim/GAN_tot' # directory to input data file as mat file 
 	os.chdir(data_file)
-	mat = sio.loadmat('Saven_activity.mat')
+	mat = sio.loadmat('Saven_activity.mat') # name of the mat file 
 	oct_struct = mat['activity']
 	#activityname = ['boxingmoving']
 	images, labels = images_labels(oct_struct,activityname,dir)
