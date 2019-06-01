@@ -21,6 +21,6 @@ Before running the code check the following script and adjust cordingly:
 1. GAN_train.py, adjust output directory
 2. read.py , adjust input directory
 
-Run the code GAN_train.py to start the magic.
+Run GAN_train.py to start the magic.
 
 The code will prodcue 1472 images every 300 epoch. 
