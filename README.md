@@ -1,5 +1,5 @@
 # e-hir GAN Tutorial
-GAN implementation using Tensorflow
+GAN implementation using Tensorflow <br />
 The Following are software are required to run this code:
 1. NVIDIA CUDA latest version
 2. Anaconda version 4.3
