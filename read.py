@@ -4,7 +4,6 @@ from scipy.misc import imresize
 import scipy.io as sio
 import scipy.misc
 import os
-import cv2
 import matplotlib.pyplot as plt
 
 
